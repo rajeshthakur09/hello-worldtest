@@ -1,1 +1,5 @@
+<<<<<<< readme-edits
 Github learning. currently branch testing
+=======
+Github learning
+>>>>>>> master
