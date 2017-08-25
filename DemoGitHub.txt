@@ -1,7 +1,9 @@
-<<<<<<< readme-edits
+readme-edits
 Github learning. currently branch testing
 =======
 Github learning
->>>>>>> master
+ master
+ readme-edits
+Testing for new stream
+testing for sub branches
 
-Added comments to validate merging
